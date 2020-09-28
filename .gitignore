@@ -9,3 +9,6 @@ pubspec.lock
 doc/
 build/
 .idea/workspace.xml
+
+.flutter-plugins
+.flutter-plugins-dependencies
